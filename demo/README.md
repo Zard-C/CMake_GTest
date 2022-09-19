@@ -20,7 +20,7 @@ mkdir cmake-build
 
 ## Directory
 
-If build successfully, the project contains:
+If build successfully, the project would  be like:
 
 ```shell
 .
