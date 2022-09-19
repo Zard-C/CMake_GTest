@@ -1,10 +1,13 @@
 # README
 
-## Init the project, make a dir to build 
-mkdir cmake-build 
+## Init the project, make a dir to build
 
-## Build this project 
-./autobuild.sh 
+mkdir cmake-build
+
+## Build this project
+
+./autobuild.sh
 
 ## Unit Test
+
 ./bin/unittest/ut
