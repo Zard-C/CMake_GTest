@@ -1,11 +1,6 @@
-# CMake_GTest
+# README
 
-A demo project using CMake to build and GTest to do unit test.
-
-## What we USE in this project
-
-1. CMake
-2. GoogleTest
+A `CMake-Example` to build a project and do `unit test` using `googletest` and run memory leak check with `valgrind`
 
 ## Dependencies
 
